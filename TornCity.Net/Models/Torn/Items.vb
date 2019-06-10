@@ -13,6 +13,10 @@ Namespace Models.Torn
         Public Property Name As String
         <JsonProperty("description")>
         Public Property Description As String
+        <JsonProperty("effect")>
+        Public Property Effect As String
+        <JsonProperty("requirement")>
+        Public Property Requirement As String
         <JsonProperty("type")>
         Public Property Type As String
         <JsonProperty("buy_price")>

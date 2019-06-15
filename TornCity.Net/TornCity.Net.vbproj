@@ -3,7 +3,7 @@
   <PropertyGroup>
     <RootNamespace>TornCity.Net</RootNamespace>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <Version>0.0.1</Version>
+    <Version>0.5.0</Version>
     <Description>Initial release - A .Net wrapper for the Torn City API (https://www.torn.com/api.html)</Description>
     <Authors>Anu6is</Authors>
     <Company>Anu6is</Company>
@@ -15,6 +15,7 @@
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>Torn-City-API, Torn, Torn-City, Torn-City-Net</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyVersion>0.0.2.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
